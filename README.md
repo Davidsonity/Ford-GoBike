@@ -4,6 +4,7 @@
     <img src= "https://mtc.ca.gov/sites/default/files/images/GoBike_Launch_20.jpg" width="800" alt="cognitiveclass.ai logo" />
 </center>
 
+> visit website @ https://davidsonity-ford-gobike-app-t7q2i4.streamlit.app/
 
 
 ## Dataset
@@ -12,6 +13,7 @@
 
 ## Context
 Data Cleaning and Data Analysis using both plotly and seaborn
+
 
 ### Summary of Findings
 After cleaning and data exploration was done on the dataset, the following insights were acknowledged:
@@ -51,3 +53,5 @@ After cleaning and data exploration was done on the dataset, the following insig
 12. Irrespective of the gender, the durations taper off as a person gets older.
 > This was found by plotting a scatter plot to show th relationship between gender, age aride duration.
 
+### Website
+https://davidsonity-ford-gobike-app-t7q2i4.streamlit.app/
