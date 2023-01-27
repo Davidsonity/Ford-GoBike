@@ -6,6 +6,8 @@
 
 > visit website @ https://davidsonity-ford-gobike-app-t7q2i4.streamlit.app/
 
+> View plotly notebook @ https://github.com/Davidsonity/Ford-GoBike/blob/main/Plotly-EDA.ipynb
+
 
 ## Dataset
 
