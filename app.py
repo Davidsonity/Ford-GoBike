@@ -207,14 +207,13 @@ selected = option_menu(
 )
 
 if selected == 'Home':
-    st.markdown(
-        "> This data set includes information about individual rides made in a bike-sharing system covering the "
-        "greater San Francisco Bay area for the month of February 2019. For this project, the data was made "
-        "available by Udacity")
-
     st.image(
         'https://mtc.ca.gov/sites/default/files/images/GoBike_Launch_20.jpg'
     )
+    st.markdown(
+    "> This data set includes information about individual rides made in a bike-sharing system covering the "
+    "greater San Francisco Bay area for the month of February 2019. For this project, the data was made "
+    "available by Udacity")
 
 if selected == 'Univariate':
     st.markdown('## Univariate Exploration')
