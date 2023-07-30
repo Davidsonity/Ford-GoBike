@@ -8,6 +8,9 @@ This project aims to explore and analyze a dataset from the Ford GoBike bike-sha
 
 The dataset used for this analysis can be accessed through this link: [Ford GoBike Dataset](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv). It provides information about individual rides made during February 2019.
 
+## Tableau
+[Dash Board](https://public.tableau.com/views/Ford-GoBike/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Data Cleaning
 
 Before conducting the analysis, the dataset underwent a data cleaning process to ensure the quality and integrity of the data. The cleaning process involved handling missing values, removing duplicates, and formatting data types as needed.
